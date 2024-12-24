@@ -1,0 +1,29 @@
+{
+    "app": {
+      "port": 80,
+      "env": "production",
+      "jwtSecret": "production-jwt-secret-key",
+      "baseUrl": "https://your-production-url.com",
+      "apiVersion": "v1"
+    },
+    "database": {
+      "elasticsearch": {
+        "host": "https://your-elasticsearch-host.com",
+        "indexPrefix": "email_index_prod"
+      },
+      "redis": {
+        "host": "your-redis-host",
+        "port": 6379
+      }
+    },
+    "oauth": {
+      "clientId": "production-oauth-client-id",
+      "clientSecret": "production-oauth-client-secret",
+      "redirectUri": "https://your-production-url.com/callback"
+    },
+    "sync": {
+      "batchSize": 200,
+      "interval": 900000
+    }
+  }
+  

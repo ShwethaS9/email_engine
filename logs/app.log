@@ -1,0 +1,87 @@
+2024-12-21T06:11:01.312Z [INFO]: Server is running on port 
+2024-12-21T06:11:53.664Z [INFO]: Server is running on port undefined
+2024-12-21T06:12:34.972Z [INFO]: Server is running on port 3000
+2024-12-21T11:40:07.508Z [INFO]: Server is running on port 3000
+2024-12-21T12:45:00.487Z [INFO]: Server is running on port 3000
+2024-12-21T12:51:09.408Z [INFO]: Server is running on port 3000
+2024-12-21T12:52:53.677Z [INFO]: Server is running on port 3000
+2024-12-21T12:54:13.996Z [INFO]: Server is running on port 3000
+2024-12-21T13:03:40.397Z [INFO]: Server is running on port 3000
+2024-12-21T13:07:40.745Z [INFO]: User model initialized successfully
+2024-12-21T13:07:40.749Z [INFO]: Server is running on port 3000
+2024-12-21T13:27:57.661Z [INFO]: User model initialized successfully
+2024-12-21T13:27:57.665Z [INFO]: Server is running on port 3000
+2024-12-21T13:35:54.343Z [INFO]: User model initialized successfully
+2024-12-21T13:35:54.347Z [INFO]: Server is running on port 3000
+2024-12-21T13:39:21.819Z [INFO]: User model initialized successfully
+2024-12-21T13:39:21.826Z [INFO]: Server is running on port 3000
+2024-12-21T13:39:53.902Z [INFO]: User model initialized successfully
+2024-12-21T13:39:53.906Z [INFO]: Server is running on port 3000
+2024-12-21T13:43:35.614Z [INFO]: User model initialized successfully
+2024-12-21T13:43:35.619Z [INFO]: Server is running on port 3000
+2024-12-21T13:44:40.840Z [INFO]: User model initialized successfully
+2024-12-21T13:44:40.844Z [INFO]: Server is running on port 3000
+2024-12-21T13:52:01.807Z [INFO]: User model initialized successfully
+2024-12-21T13:52:01.811Z [INFO]: Server is running on port 3000
+2024-12-21T14:07:59.625Z [INFO]: User model initialized successfully
+2024-12-21T14:07:59.630Z [INFO]: Server is running on port 3000
+2024-12-21T14:11:46.120Z [INFO]: User model initialized successfully
+2024-12-21T14:11:46.126Z [INFO]: Server is running on port 3000
+2024-12-21T14:15:06.902Z [INFO]: User model initialized successfully
+2024-12-21T14:15:06.909Z [INFO]: Server is running on port 3000
+2024-12-21T14:25:30.364Z [INFO]: User model initialized successfully
+2024-12-21T14:25:30.368Z [INFO]: Server is running on port 3000
+2024-12-21T14:27:00.443Z [INFO]: User model initialized successfully
+2024-12-21T14:27:00.451Z [INFO]: Server is running on port 3000
+2024-12-21T14:31:58.759Z [INFO]: User model initialized successfully
+2024-12-21T14:31:58.763Z [INFO]: Server is running on port 3000
+2024-12-21T14:36:25.961Z [INFO]: User model initialized successfully
+2024-12-21T14:36:25.965Z [INFO]: Server is running on port 3000
+2024-12-21T14:38:03.610Z [INFO]: User model initialized successfully
+2024-12-21T14:38:03.614Z [INFO]: Server is running on port 3000
+2024-12-21T14:44:22.277Z [INFO]: User model initialized successfully
+2024-12-21T14:44:22.295Z [INFO]: Server is running on port 3000
+2024-12-21T14:50:36.213Z [INFO]: User model initialized successfully
+2024-12-21T14:50:36.221Z [INFO]: Server is running on port 3000
+2024-12-21T15:08:05.119Z [INFO]: User model initialized successfully
+2024-12-21T15:08:05.123Z [INFO]: Server is running on port 3000
+2024-12-22T05:14:01.667Z [INFO]: User model initialized successfully
+2024-12-22T05:14:01.671Z [INFO]: Server is running on port 3000
+2024-12-22T05:28:16.618Z [INFO]: User model initialized successfully
+2024-12-22T05:28:16.624Z [INFO]: Server is running on port 3000
+2024-12-22T05:28:42.771Z [INFO]: User model initialized successfully
+2024-12-22T05:28:42.775Z [INFO]: Server is running on port 3000
+2024-12-22T05:34:56.531Z [INFO]: User model initialized successfully
+2024-12-22T05:34:56.535Z [INFO]: Server is running on port 3000
+2024-12-22T05:37:52.193Z [INFO]: User model initialized successfully
+2024-12-22T05:37:52.203Z [INFO]: Server is running on port 3000
+2024-12-22T05:47:45.889Z [INFO]: User model initialized successfully
+2024-12-22T05:47:45.893Z [INFO]: Server is running on port 3000
+2024-12-22T05:49:17.134Z [INFO]: User model initialized successfully
+2024-12-22T05:49:17.140Z [INFO]: Server is running on port 3000
+2024-12-22T05:49:46.912Z [INFO]: User model initialized successfully
+2024-12-22T05:49:46.917Z [INFO]: Server is running on port 3000
+2024-12-22T05:59:45.560Z [INFO]: User model initialized successfully
+2024-12-22T05:59:45.564Z [INFO]: Server is running on port 3000
+2024-12-22T06:11:20.897Z [INFO]: User model initialized successfully
+2024-12-22T06:11:20.908Z [INFO]: Server is running on port 3000
+2024-12-22T06:16:33.573Z [INFO]: User model initialized successfully
+2024-12-22T06:16:33.578Z [INFO]: Server is running on port 3000
+2024-12-22T06:19:13.249Z [INFO]: User model initialized successfully
+2024-12-22T06:19:13.254Z [INFO]: Server is running on port 3000
+2024-12-22T06:21:55.474Z [INFO]: User model initialized successfully
+2024-12-22T06:21:55.479Z [INFO]: Server is running on port 3000
+2024-12-22T06:26:33.537Z [INFO]: User model initialized successfully
+2024-12-22T06:26:33.544Z [INFO]: Server is running on port 3000
+2024-12-22T12:42:36.057Z [ERROR]: Failed to initialize services: connect ECONNREFUSED 127.0.0.1:9200
+2024-12-23T05:01:40.887Z [ERROR]: Failed to initialize services: connect ECONNREFUSED 127.0.0.1:9200
+2024-12-23T05:02:16.477Z [ERROR]: Failed to initialize services: connect ECONNREFUSED 127.0.0.1:9200
+2024-12-23T08:36:05.829Z [ERROR]: Failed to initialize services: connect ECONNREFUSED 127.0.0.1:9200
+2024-12-23T09:40:39.827Z [ERROR]: Failed to initialize services: other side closed - Local: 127.0.0.1:50260, Remote: 127.0.0.1:9200
+2024-12-23T09:45:06.664Z [INFO]: User model initialized successfully
+2024-12-23T09:45:31.479Z [INFO]: User model initialized successfully
+2024-12-23T09:45:31.484Z [INFO]: Server is running on port 3000
+2024-12-23T10:02:07.503Z [INFO]: User model initialized successfully
+2024-12-23T10:02:07.509Z [INFO]: Server is running on port 3000
+2024-12-23T10:07:15.545Z [INFO]: User model initialized successfully
+2024-12-23T10:07:15.553Z [INFO]: Server is running on port 3000
